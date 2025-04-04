@@ -1,86 +1,69 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cole Parker's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+# Cole Parker
+**Business/Accounting Intern · Aspiring CPA**
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020–2024`  
+**Brigham Young University - Idaho**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- Bachelor of Science in Accounting  
+- Certificate in Data Science  
+- GPA: 3.95  
+- Mentorship Officer, Student Accounting Society
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2025`  
+**Top Accounting Graduate**
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+### Teaching Assistant  
+**Brigham Young University - Idaho**  
+*September 2021 – April 2025 · Rexburg, ID*  
+Courses: ACCTG 205, ACCTG 233, ACCTG 401
 
+- Helped students master key QuickBooks software functionalities  
+- Provided detailed feedback and clarification on Excel models  
+- Collaborated weekly with the instructor to foster an engaging learning environment
 
-## Publications
+### Accounting Intern  
+**Spudnik Equipment Co.**  
+*July 2024 – September 2024 · Blackfoot, ID*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Automated a dashboard tracking budgeted, actual, and forecasted monthly totals  
+- Analyzed Balance Sheet and P&L statements over 2 years  
+- Cleaned up 500+ vouchers payable accounts using Infor SyteLine (CloudSuite Industrial)
 
-### Journals
+### Accounting Tutor (Managerial, Financial, Survey)  
+**Brigham Young University - Idaho**  
+*September 2023 – April 2024 · Rexburg, ID*
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Taught 50+ students with various learning styles  
+- Diagnosed student errors and offered clear corrections  
+- Provided feedback leading to a 10% increase in overall student performance
 
-`1669`
-Lectiones opticæ.
+### Business Intern  
+**Northern RNA Inc**  
+*April 2023 – August 2023 · Calgary, AB*
 
-etc. etc. etc.
+- Troubleshot inventory issues on Business Dynamics 365  
+- Recorded invoices and resolved discrepancies with AP clerks  
+- Co-developed an inventory workflow system using Dynamics 365
 
-### Patents
+## Volunteer Experience
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Full-Time Volunteer Representative  
+**The Church of Jesus Christ of Latter-day Saints**  
+*June 2019 – March 2020 · Montreal, QC*
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Adhered to a structured schedule involving diverse responsibilities  
+- Worked in both team and solo environments, adapting every 6 weeks  
+- Developed communication and interpersonal skills in high-pressure environments
 
 
 
